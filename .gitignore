@@ -10,6 +10,7 @@ Desktop.ini
 *.egg-info
 dist
 build
+pyzohar
 
 # My configurations:
 db.ini
